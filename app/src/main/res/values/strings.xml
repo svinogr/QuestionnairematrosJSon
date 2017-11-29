@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Дельта Вахтенный Матрос</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="all_question">
+      С комментариями
+    </string>
+    <string name="nav_serch_name">Поиск</string>
+    <string name="nav_nav_captain">Вахтенный матрос</string>
+    <string name="nav_senior_assistant">Старшие помощники капитана</string>
+    <string name="nav_watch_mate_assistant">Вахтенные помощники капитана</string>
+    <string name="mailto">Обратная связь</string>
+    <string name="number_search">№</string>
+    <string name="drawer_down_text">Дельта Тест: Вопросы и ответы</string>
+    <string name="drawer_up_text">Вахтенный матрос</string>
+    <string name="subject_mail">Дельта Тест. Вахтенный матрос</string>
+    <string name="email_mail">updeveloper3y@gmail.com</string>
+    <string name="data_base_path">/data/data/info.upump.questionnairematros/databases/</string>
+    <string name="mail_subject">Дельта Тест. Вахтенный матрос</string>
+</resources>
